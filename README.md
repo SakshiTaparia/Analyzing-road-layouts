@@ -1,4 +1,4 @@
-# Characterizing The Evolution Of Indian Cities Using Satellite Imagery And Open Street Maps
+# Characterizing The Evolution Of Indian Cities Using Satellite Imagery And Open Street Maps [(PDF)](https://dl.acm.org/doi/pdf/10.1145/3378393.3402258)
 
 ## Authors
 Chahat Bansal, Aditi Singla, Ankit Kumar Singh, Hari Om Ahlawat, Mayank Jain, Prachi Singh, Prashant Kumar, Ritesh Saha, Sakshi Taparia, Shailesh Yadav, Aaditeshwar Seth
